@@ -3,6 +3,8 @@ Demo of CloudCompare MCP (you have you customize the code yourself)
 
 ✨ Custom MCP Integration for CloudCompare✨
 
+<img width="888" alt="cloudcompare_mcp_screenshots" src="https://github.com/user-attachments/assets/8f238735-e4dd-426f-b69c-cd88a9cb5951" />
+
 I've created a homemade Model Context Protocol (MCP) by integrating a Large Language Model (LLM) with CloudCompare. 🚀 Now, I can simply type natural language commands to trigger CloudCompare functions—no more tedious digging through documentation! 📚
 
 🧠 What's MCP? It's a trending approach that converts natural language prompts into executable software commands, bridging human intuition and software automation seamlessly (though not quite at true intelligence yet!).
