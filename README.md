@@ -34,4 +34,4 @@ https://github.com/user-attachments/assets/68ae63e3-de55-43d5-b91b-fa0666e53351
 
 🌌 Final Thoughts: Real AI extends far beyond today's tools—it's not just a model or strategy but an expansive interactive system of modular units working harmoniously. 🌐🤖
 
-It would be great if the CloudCompare team could take over @ Daniel Girardeau-Montaut
+It would be great if the CloudCompare team could take over
