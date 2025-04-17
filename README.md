@@ -1,5 +1,5 @@
 # CloudCompareMCP
-Demo of CloudCompare MCP (you have you customize the code yourself)
+Demo of CloudCompare MCP (you have to customize the code yourself)
 
 ✨ Custom MCP Integration for CloudCompare✨
 
